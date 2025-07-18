@@ -1,3 +1,6 @@
 Todo hari ini :
 - Belajar java dan springboot
 - Belajar langchain
+
+Todo besok :
+- Lanjut belajara springboot
