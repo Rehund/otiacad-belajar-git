@@ -1,3 +1,6 @@
 todo agus : 
 - belajar laravel
 - belajar CI
+
+cewe kesukaan agus :
+- angelica
