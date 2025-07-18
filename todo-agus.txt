@@ -1,0 +1,3 @@
+todo agus : 
+- belajar laravel
+- belajar CI
