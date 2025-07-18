@@ -1,3 +1,7 @@
 todo agus : 
 - belajar laravel
 - belajar CI
+
+agus's favorite food :
+- Ampela
+- Bebek
