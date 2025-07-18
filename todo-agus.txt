@@ -2,6 +2,11 @@ todo agus :
 - belajar laravel
 - belajar CI
 
+
 agus's favorite food :
 - Ampela
 - Bebek
+
+cewe kesukaan agus :
+- angelica
+
